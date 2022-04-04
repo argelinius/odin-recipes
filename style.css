@@ -1,11 +1,16 @@
 *{
     background-color: rgb(233, 146, 48);
+    margin: 0px;
 }
 
 h1{
     font-family: georgia, serif;
     color: rgb(238, 241, 38);
     text-align: center;
+    padding: 0px;
+    border: 20px solid rgb(38, 0, 255);
+    margin:0px;
+
 }
 
 a{
@@ -16,9 +21,16 @@ a{
 
 .links{
     text-align: center;
+    margin: 20px;
 }
 
 .ingr{
     font-family: garamond, serif;
     color: rgb(87, 87, 87);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
